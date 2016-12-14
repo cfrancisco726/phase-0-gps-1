@@ -10,4 +10,4 @@
 
 [Our GitHub Link](https://github.com/cfrancisco726/phase-0-gps-1.git)
 
-![alt text](phase-0-gps-1/CarloAndTim"Logo Title Text 1")
+![alt text](https://github.com/cfrancisco726/phase-0-gps-1/blob/master/CarloAndTim.png"Logo Title Text 1")
